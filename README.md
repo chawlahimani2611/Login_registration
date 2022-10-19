@@ -1,5 +1,5 @@
 # Login_registration
- used MySql for staoring user details
+ used MySql for storing user details
  database name- login
  table name- users
  
